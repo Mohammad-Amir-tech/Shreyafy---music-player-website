@@ -20,7 +20,7 @@ Shreyafy is a music player website designed to provide a personalized and immers
 
 ## Demo
 
-See demo here - [demo](https://shreyafy.freewebhostmost.com/)
+See demo here - [Shreyafy](https://shreyafy.freewebhostmost.com/)
 
 
 ## Contributing
