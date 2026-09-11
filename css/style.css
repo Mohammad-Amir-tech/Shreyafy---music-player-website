@@ -435,6 +435,29 @@ body {
     .left {
         width: 100vw;
     }
+
+    /* Fixed-width song info column overflowed small screens, forcing
+       horizontal scroll inside the sidebar list. Let it size naturally
+       and wrap instead. */
+    .songList .info {
+        width: auto;
+        flex: 1;
+        min-width: 0;
+    }
+
+    .songList ul li {
+        gap: 10px;
+    }
+
+    /* Bigger tap targets for play/pause/next/prev on touch screens */
+    .songbuttons img {
+        width: 40px;
+        padding: 6px;
+    }
+
+    .playbar {
+        padding: 14px;
+    }
 }
 
 .footer {
