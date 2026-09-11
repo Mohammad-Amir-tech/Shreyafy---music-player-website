@@ -1,0 +1,113 @@
+{
+  "folders": [
+    {
+      "id": "english",
+      "title": "English Songs",
+      "description": "By Shreya",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "16 Shots - Stefflon Don.mp3",
+        "I'm Yours - Jason Mraz.mp3",
+        "Nede Nede Female.mp3",
+        "River - Bishop Briggs.mp3",
+        "Shameless - Camila Cabello.mp3",
+        "You Right - Doja Cat.mp3"
+      ]
+    },
+    {
+      "id": "hindi",
+      "title": "Bollywood Central",
+      "description": "By Shreyafy",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "Chupke Se.mp3",
+        "Deewana Kar Raha Hai.mp3",
+        "Ishq Mubarak.mp3",
+        "Maahi - RAAZ.mp3",
+        "Main Deewana Tera.mp3",
+        "Tera Fitoor - Rromeo.mp3",
+        "Teri_Deewani.mp3",
+        "Tu Hai Kahan.mp3",
+        "Zindagi Se.mp3"
+      ]
+    },
+    {
+      "id": "latest_Hindi",
+      "title": "Trending Songs",
+      "description": "By Mo.Ashar",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "Hua Main - Animal.mp3",
+        "Jamal Kudu - Animal.mp3",
+        "Kalaastar - Honey Singh.mp3",
+        "Kudiye Ni Tere.mp3",
+        "O Maahi Arijit Singh.mp3",
+        "Pehle Bhi Main.mp3",
+        "Sanson Ki Mala.mp3",
+        "Satranga - Animal.mp3"
+      ]
+    },
+    {
+      "id": "lofi",
+      "title": "Lofi Songs (Sukoon 💜) ",
+      "description": "Feel Magical Vibe",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "EK ladki Ko Dekha - Darshan.mp3",
+        "Hornn Blow - Harrdy Sandhu.mp3",
+        "Teri Khair Mangdi X Bewafa - Mashup.mp3",
+        "Tu Mera Koi Na Hoke Bhi Kuchh Laage.mp3",
+        "Uska Hi Banana - Arijit Singh.mp3",
+        "Waareya.mp3",
+        "Ye Tune Kya Kiya.mp3"
+      ]
+    },
+    {
+      "id": "punjabi",
+      "title": "Punjabi ❤️&zwj;🔥",
+      "description": "By Mustafa",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "Bijlee Bijlee.mp3",
+        "Brown Munde.mp3",
+        "Cheques.mp3",
+        "Elevated.mp3",
+        "Kale Je Libaas Di.mp3",
+        "Patt Lai Geya.mp3"
+      ]
+    },
+    {
+      "id": "rain",
+      "title": "Rainy 🌧 lofi songs 💕",
+      "description": "By White Cat",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "Baarish - Yaariyan.mp3",
+        "Tum Hi Ho.mp3",
+        "Tum Mere Ho.mp3",
+        "Zara Sa.mp3"
+      ]
+    },
+    {
+      "id": "shreya",
+      "title": "Shreya Singh Hits🫧✨",
+      "description": "Nightingale Shreya",
+      "cover": "Shreya Singer.jpg",
+      "songs": [
+        "Aashique aa gai.mp3",
+        "Apke Pyar Mai.mp3",
+        "Do Pal.mp3",
+        "Hume Tumse Pyar Kitna.mp3",
+        "Kabhi Tumhe.mp3",
+        "O Mere Dil Ke Chain Cover.mp3",
+        "Pal Pal Har Pal Cover.mp3",
+        "Some songs are just blessings.mp3",
+        "Teri Hone Lagi Hu.mp3",
+        "Tu Jaane Na.mp3",
+        "Tujhme Rab Dikhta Hai.mp3",
+        "Uska Hi Bana.mp3",
+        "Yaariyan.mp3"
+      ]
+    }
+  ]
+}
